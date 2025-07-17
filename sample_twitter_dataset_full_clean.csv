@@ -1,0 +1,6 @@
+id,created_at,text,user,likes,retweets,replies,source,hashtags,mentions,lang
+1001,2023-07-01 08:30,Just posted a new blog on AI trends!,@user1,15,3,1,Twitter Web App,#AI,@openai,en
+1002,2023-07-01 09:15,Had a great meeting with the team today.,@user2,42,7,0,Twitter for iPhone,#TeamMeeting,@team,en
+1003,2023-07-02 10:45,Excited to announce our new product launch.,@user3,78,12,4,Twitter Web App,#ProductLaunch,@customers,en
+1004,2023-07-03 11:20,Happy Monday! Stay productive everyone.,@user4,25,5,2,Twitter for Android,#MotivationMonday,@followers,en
+1005,2023-07-04 14:10,Thank you for 10k followers!,@user5,150,30,10,Hootsuite,#Milestone,@community,en
